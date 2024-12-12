@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AWS
 devops
+=======
+hi all
+>>>>>>> 0cd72b3a38e01d54fa29c72d151ef8702cd02b5d
