@@ -1,4 +1,8 @@
 AWS
 devops
 hi all
+<<<<<<< HEAD
 kubenates
+=======
+jenkins
+>>>>>>> 05ee91ad7c2d5c9ff2689aa884dac73dd8d3c371
